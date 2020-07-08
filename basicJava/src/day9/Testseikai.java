@@ -29,12 +29,6 @@ public class Testseikai {
 		System.out.println(sum1);
 		
 		
-		//문제4) 팩토리얼 구현 
-		
-		long fac = 1;
-		for(int n=5; n>=1; n--) {
-			
-		}
 		
  }
 }
