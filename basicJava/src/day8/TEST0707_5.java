@@ -8,16 +8,16 @@ public class TEST0707_5 {
 		
 		int count =1;
 		
-		for(int i=5; i<0; i--) {
-			for(int j=0; i<j; j++) {
+		for(int i=1; i<6; i++) {
+			for(int j=count; j<6; j++) {
 				
-				System.out.print(j);
+				System.out.print(i);
 			
 			
 		}
 			System.out.println();
 			
-			
+		count++;	
 	}
 	}
 }
