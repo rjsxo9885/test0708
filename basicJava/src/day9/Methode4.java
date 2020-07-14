@@ -23,7 +23,8 @@ public class Methode4 {
 	}
     public static double callTest4(double a,double b) {
 		
-		   return a*b;
+    	
+		return a*b;
 		 
 		 
 		
