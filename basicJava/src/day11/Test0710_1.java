@@ -27,6 +27,9 @@ public class Test0710_1 {
 	 * 			일괄처리(Batch,배치)
 		
 		*/
+		
+		
+	
 	}
 
 }

@@ -15,6 +15,10 @@ class Sunjuk{
 		
 	}
 	
+	public void init(int a,int b,int c) {
+		
+	}
+	
 	public void calc() {
 		avg = (kor+eng+math)/3;
 	}

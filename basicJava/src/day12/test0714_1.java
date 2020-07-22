@@ -10,7 +10,7 @@ public class test0714_1 {
 		}*/
 		int i =0;
 		
-		
+	
 		
 		while(i<=20) {
 			
