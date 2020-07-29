@@ -1,4 +1,6 @@
 package day21;
+import day21.WebProgram.Language;
+import day21.WebProgram.Smart;
 
 class WebProgram{
 	String title = "Java Programming";
